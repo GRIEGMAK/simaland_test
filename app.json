@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "mytest",
+    "slug": "mytest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "ios": { "bundleIdentifier": "simaland.test" },
+
+  "android": { "package": "simaland.test" },
+  "name": "simaland.test"
+}
